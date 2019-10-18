@@ -1,3 +1,10 @@
+
+.intro {
+	background: lightslategrey;
+	font-family: inherit;
+	size: 100px;
+	text-align: center;
+}
 .navbar ul {
 	background-color: brown;
 	padding: 10px;
@@ -21,10 +28,13 @@
 	color: lightsteelblue;
 }
 .image img {
-	padding:2%;
-	width:500px;
-	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    float:left;
+	padding:20%;
+	width:600px;
+	float:left;
+}
+.text{
+	position: absolute;;
+	right:15 px;
 }
 body{
 	background-color: none;
@@ -32,7 +42,11 @@ body{
 }
 
 #about {
-	background:grey
+	background:lightgrey;
+	font-family: fantasy;
+
+
+
 }
 #project>a>{
 	color: blue;
