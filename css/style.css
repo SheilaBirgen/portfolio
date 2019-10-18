@@ -1,0 +1,39 @@
+.navbar ul {
+	background-color: brown;
+	padding: 10px;
+}
+.navbar ul li {
+	list-style-type: none;
+	display: inline;
+	padding: 10px;
+}
+.navbar ul li a {
+	text-decoration: none;
+	text-transform: capitalize;
+}
+.text-box {
+	object-position: absolute;
+	top: 20px;
+	left: 20px;
+	background-color: gray;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: lightsteelblue;
+}
+.image img {
+	padding:2%;
+	width:500px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float:left;
+}
+body{
+	background-color: none;
+	background-image: none;
+}
+
+#about {
+	background:grey
+}
+#project>a>{
+	color: blue;
+}
