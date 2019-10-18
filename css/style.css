@@ -1,8 +1,8 @@
-
 .intro {
-	background: lightslategrey;
+	background: lightgrey;
 	font-family: inherit;
-	size: 100px;
+	width: 100%;
+	height: 100%;
 	text-align: center;
 }
 .navbar ul {
@@ -28,26 +28,30 @@
 	color: lightsteelblue;
 }
 .image img {
-	padding:20%;
-	width:600px;
-	float:left;
+	padding: 2%;
+	width: 600px;
+	float: left;
 }
-.text{
-	position: absolute;;
-	right:15 px;
+.text {
+	position: absolute;
+	right: 15 px;
 }
-body{
+body {
 	background-color: none;
 	background-image: none;
 }
 
 #about {
-	background:lightgrey;
+	background: lightgrey;
 	font-family: fantasy;
-
-
-
+	align-content: bottom;
 }
-#project>a>{
+#project > a >  {
 	color: blue;
+}
+#Contacts{
+	text-align:bottom;
+	width: 100%;
+	
+
 }
