@@ -18,23 +18,17 @@
 	text-decoration: none;
 	text-transform: capitalize;
 }
-.text-box {
-	object-position: absolute;
-	top: 20px;
-	left: 20px;
-	background-color: gray;
-	padding-left: 10px;
-	padding-right: 10px;
-	color: lightsteelblue;
+.image{
+	display: flex;
 }
-.image img {
-	padding: 2%;
-	width: 600px;
-	float: left;
+.image>img {
+	width: 300px;
+	border-radius: 30%;
 }
-.text {
+.bottom-right {
 	position: absolute;
-	right: 15 px;
+	bottom: 2px;
+	right: 2px;
 }
 body {
 	background-color: none;
@@ -44,14 +38,14 @@ body {
 #about {
 	background: lightgrey;
 	font-family: fantasy;
-	align-content: bottom;
+	text-align: bottom;
 }
-#project > a >  {
-	color: blue;
-}
-#Contacts{
-	text-align:bottom;
-	width: 100%;
+#projects{
+	background-color:beige;
+	font-family: sans-serif;
 	
-
+}
+#Contacts {
+	text-align: bottom;
+	width: 100%;
 }
