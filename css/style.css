@@ -43,33 +43,24 @@
 	color: white;
 	font-weight: bold;
 }
-
-/* .image .name {
-	position: absolute;
+.aboutdiv{
+	height: 40vh;
+}
+.aboutdiv h2 {
+	text-align: center;
+	padding: 50px 0px 10px 0px;
+}
+.aboutdiv p {
 	text-align: center;
 }
-.bottom-right {
-	position: absolute;
-	bottom: 2px;
-	right: 2px;
+.project h2 {
+	text-align: center;
 }
-.about {
-	font-family: fantasy;
-	text-align: bottom;
+.project p {
+	text-align: center;
 }
-.projects {
-	background-color: beige;
-	font-family: sans-serif;
+.myproject
+.myproject img {
+	width: 400px;
+	margin: 0 auto;
 }
-.contact ol {
-	background-color: lightgrey;
-	padding: 10px;
-}
-.Contacts {
-	text-align: bottom;
-	width: 100%;
-}
-body {
-	background-color: lightgrey;
-	font-size: 14;
-} */
