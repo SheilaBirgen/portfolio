@@ -27,7 +27,7 @@
 	padding-left: 32%;
 	padding-top: 30px;
 	height: 100vh;
-	background-image: url(/images/portfolio1.jpg);
+	background-image: url(/images/portfolio3.jpg);
 	background-size: cover;
 	width: 100%;
 }
@@ -60,6 +60,11 @@
 }
 .skills p {
 text-align: center;
+}
+.skills ul {
+	text-align: center;
+	padding: 10px;
+
 }
 .project h2 {
 	text-align: center;
