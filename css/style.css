@@ -39,6 +39,7 @@
 	border-radius: 40%;
 	display: flex;
 	justify-content: center;
+	text-align: center;
 }
 .image p {
 	font-size: 25px;
