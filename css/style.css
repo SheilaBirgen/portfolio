@@ -54,6 +54,13 @@
 .aboutdiv p {
 	text-align: center;
 }
+.skills h2{
+	text-align: center;
+	padding: 10px;
+}
+.skills p {
+text-align: center;
+}
 .project h2 {
 	text-align: center;
 	padding: 14px;
