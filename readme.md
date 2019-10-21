@@ -9,7 +9,7 @@ Sheila Birgen J.
 ## Description
 This is a webpage that details about me as a software developer,My educational background and my hobbies.
 ## Deploying link
-to view this project use the following link
+to view this project use the following link https://github.com/SheilaBirgen/portfolio.git
 ## BDD
 On visiting the website the home page displays with my name on it and a brief introduction.The navigation bar contains menu which links youto specific sections for example the about me section.
 ## Technologies used
