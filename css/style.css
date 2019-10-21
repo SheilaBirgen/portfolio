@@ -30,7 +30,7 @@
 	padding-right: 32%;
 	border: 20px;
 	height: 90vh;
-	background-image: url(/images/portfolio3.jpg);
+	background-image: url(/images/portfolio4.jpg);
 	background-size: cover;
 	width: 100%;
 }
@@ -47,9 +47,9 @@
 	color: white;
 	font-weight: bold;
 }
-.aboutdiv{
+.aboutdiv {
 	height: 40vh;
-	background-color: lightgray;
+	background-color: lightslategray;
 }
 .aboutdiv h2 {
 	text-align: center;
@@ -58,22 +58,21 @@
 .aboutdiv p {
 	text-align: center;
 }
-.skills{
+.skills {
 	padding: 30px;
-	background-color: beige;
+	background-color: lightgrey;
 }
-.skills h2{
+.skills h2 {
 	text-align: center;
 	padding: 20px;
 }
 .skills p {
-text-align: center;
+	text-align: center;
 }
 .skills ul {
 	text-align: center;
 	padding: 20px;
-	display: inline;;
-
+	display: inline;
 }
 .project h2 {
 	text-align: center;
@@ -82,12 +81,12 @@ text-align: center;
 .project p {
 	text-align: center;
 }
-.myproject{
+.myproject {
 	display: flex;
 	flex-direction: column;
 }
 .myproject img {
-	width:800px;
+	width: 800px;
 	padding-left: 37%;
 }
 .myproject button {
@@ -99,14 +98,19 @@ text-align: center;
 	font-size: 20px;
 	color: black;
 }
-.myproject a:hover{
+.myproject p{
+	text-align: center;
+	font-family:inherit ;
+	border-top: 20 px;
+}
+.myproject a:hover {
 	background-color: black;
 	color: white;
 }
 .myfoot {
-	background-color: lightslategrey;
+	background-color: lightslategray;
 }
-.myfoot>p {
+.myfoot > p {
 	text-align: center;
 	padding: 10px;
 	text-decoration: none;
