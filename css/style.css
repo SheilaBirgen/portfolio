@@ -3,11 +3,18 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+.container {
+	width: 100%;
+	text-align: center;
+	height: 100vh;
+	background-image: url(images/background.jpeg);
+}
 .intro {
 	font-family: inherit;
 	width: 800px;
 	height: 900;
 	text-align: center;
+	
 }
 .navbar ul {
 	background-color: brown;
@@ -30,7 +37,7 @@
 	padding-right: 32%;
 	border: 20px;
 	height: 90vh;
-	background-image: url(/images/portfolio2.jpg);
+	background-image: url(images/portfolio2.jpg);
 	background-size: cover;
 	width: 100%;
 }
@@ -46,7 +53,7 @@
 	padding-top: 25vh;
 	color: white;
 	font-weight: bold;
-	text-align: inherit;;
+	text-align: inherit;
 }
 .aboutdiv {
 	height: 40vh;
@@ -99,9 +106,9 @@
 	font-size: 20px;
 	color: black;
 }
-.myproject p{
+.myproject p {
 	text-align: center;
-	font-family:inherit ;
+	font-family: inherit;
 	border-top: 20 px;
 }
 .myproject a:hover {
